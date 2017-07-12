@@ -1,4 +1,4 @@
-package com.epam.exception;
+package com.epam.exception.customexceptions;
 
 /**
  * Created by Sydubabu_Vasantha on 6/15/2017.
